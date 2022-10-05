@@ -8,7 +8,7 @@ int main ()
     cout<<"Enter value of 'b' =\t";
     cin>>b;
 
-    c = (a+b);
+    c = (a-b);
 
     cout << c<< endl;
 
